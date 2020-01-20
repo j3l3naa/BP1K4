@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1579480864 source:c:\users\vlajkov\desktop\new folder\finalpracticeserijskasekvencijalna\operacije_nad_datotekama.c
+	"operacije_nad_datotekama.h"
+
+1579479937 c:\users\vlajkov\desktop\new folder\finalpracticeserijskasekvencijalna\operacije_nad_datotekama.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<sys/types.h>
+	"definicija_strukutre_podataka.h"
+
+1579466881 c:\users\vlajkov\desktop\new folder\finalpracticeserijskasekvencijalna\definicija_strukutre_podataka.h
+
+1579480310 source:c:\users\vlajkov\desktop\new folder\finalpracticeserijskasekvencijalna\main.c
+	"operacije_nad_datotekama.h"
+
